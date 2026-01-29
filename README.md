@@ -2,7 +2,7 @@
 
 **SysDash** is a Bash-based interactive **System Maintenance & Health Dashboard** for Linux systems. It provides a menu-driven interface to monitor system resources, manage services, view logs, perform cleanup tasks, manage processes, and schedule routine maintenance.
 
-<!-- Uploading "Screencast from 29-01-26 07^V^H PM IST.webm"... -->
+![Image](https://github.com/user-attachments/assets/001d53c8-0168-40ce-a121-fb36caa48cf5)
 
 ---
 
