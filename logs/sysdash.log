@@ -1,0 +1,75 @@
+2026-01-29 11:43:57 | Restarted service: accounts-daemon.service
+acpid.service
+avahi-daemon.service
+bluetooth.service
+colord.service
+containerd.service
+cron.service
+cups-browsed.service
+cups.service
+dbus.service
+docker.service
+gdm.service
+irqbalance.service
+kerneloops.service
+ModemManager.service
+mosquitto.service
+networkd-dispatcher.service
+NetworkManager.service
+open-vm-tools.service
+polkit.service
+2026-01-29 11:44:02 | Performed cleanup: /tmp directory cleared
+2026-01-29 11:44:16 | Killed process PID=4297
+2026-01-29 11:44:21 | Scheduled weekly cron: /home/ushuaia/scripts/project/sysdash/sysdash.sh
+2026-01-29 11:44:25 | Started live CPU/RAM monitor
+2026-01-29 11:44:25 | Stopped live CPU/RAM monitor
+2026-01-29 11:49:00 | Restarted service: mosquitto.service
+2026-01-29 11:49:10 | Started live CPU/RAM monitor
+2026-01-29 11:49:10 | Stopped live CPU/RAM monitor
+2026-01-29 11:51:21 | Started live CPU/RAM monitor
+2026-01-29 11:51:22 | Stopped live CPU/RAM monitor
+2026-01-29 11:51:27 | Started live CPU/RAM monitor
+2026-01-29 11:51:27 | Stopped live CPU/RAM monitor
+2026-01-29 11:51:30 | Started live CPU/RAM monitor
+2026-01-29 11:51:30 | Stopped live CPU/RAM monitor
+2026-01-29 11:51:39 | Started live CPU/RAM monitor
+2026-01-29 11:51:39 | Stopped live CPU/RAM monitor
+2026-01-29 11:53:55 | Started live CPU/RAM monitor
+2026-01-29 11:53:55 | Stopped live CPU/RAM monitor
+2026-01-29 11:53:58 | Started live CPU/RAM monitor
+2026-01-29 11:53:58 | Stopped live CPU/RAM monitor
+2026-01-29 11:54:02 | Started live CPU/RAM monitor
+2026-01-29 11:54:03 | Stopped live CPU/RAM monitor
+2026-01-29 11:54:08 | Started live CPU/RAM monitor
+2026-01-29 11:54:08 | Stopped live CPU/RAM monitor
+2026-01-29 11:54:14 | Started live CPU/RAM monitor
+2026-01-29 11:54:14 | Stopped live CPU/RAM monitor
+2026-01-29 11:56:35 | Started live CPU/RAM monitor
+2026-01-29 11:56:35 | Stopped live CPU/RAM monitor
+2026-01-29 11:56:40 | Started live CPU/RAM monitor
+2026-01-29 11:56:40 | Stopped live CPU/RAM monitor
+2026-01-29 11:59:22 | Started live CPU/RAM monitor
+2026-01-29 11:59:22 | Stopped live CPU/RAM monitor
+2026-01-29 11:59:26 | Started live CPU/RAM monitor
+2026-01-29 11:59:26 | Stopped live CPU/RAM monitor
+2026-01-29 12:01:36 | Started live CPU/RAM monitor
+2026-01-29 12:01:36 | Stopped live CPU/RAM monitor
+2026-01-29 12:01:48 | Started live CPU/RAM monitor
+2026-01-29 12:01:48 | Stopped live CPU/RAM monitor
+2026-01-29 12:01:53 | Started live CPU/RAM monitor
+2026-01-29 12:01:53 | Stopped live CPU/RAM monitor
+2026-01-29 12:01:56 | Started live CPU/RAM monitor
+2026-01-29 12:01:56 | Stopped live CPU/RAM monitor
+2026-01-29 12:03:18 | Started live CPU/RAM monitor
+2026-01-29 12:03:43 | Stopped live CPU/RAM monitor
+2026-01-29 12:05:28 | Started live CPU/RAM monitor
+2026-01-29 12:08:08 | Started live CPU/RAM monitor
+2026-01-29 12:08:08 | Stopped live CPU/RAM monitor
+2026-01-29 12:08:11 | Started live CPU/RAM monitor
+2026-01-29 12:08:11 | Stopped live CPU/RAM monitor
+2026-01-29 12:09:19 | Started live CPU/RAM monitor
+2026-01-29 12:09:19 | Stopped live CPU/RAM monitor
+2026-01-29 12:09:22 | Started live CPU/RAM monitor
+2026-01-29 12:09:22 | Stopped live CPU/RAM monitor
+2026-01-29 12:10:39 | Started live CPU/RAM monitor
+2026-01-29 12:11:18 | Stopped live CPU/RAM monitor
