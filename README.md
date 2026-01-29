@@ -37,7 +37,4 @@ Make the main script executable and run as root
 
 ```bash
 chmod +x sysdash.sh
-
-
-```bash
 sudo ./sysdash.sh
